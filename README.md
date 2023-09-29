@@ -1,2 +1,2 @@
 # Curator
- Repository for Book rEcommendation Website -- Assessment
+ Repository for Book Recommendation Website -- Assessment
